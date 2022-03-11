@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htetarkarhlaing&label=Profile%20views&color=dc601e&style=flat-square" alt="htetarkarhlaing" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=htetarkarhlaing" alt="htetarkarhlaing" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=htetarkarhlaing&theme=dracula" alt="htetarkarhlaing" /></a> </p>
 
 - 🔭 I’m currently working on **Xcreative**
 
