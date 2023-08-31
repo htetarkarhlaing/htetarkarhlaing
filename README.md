@@ -4,7 +4,8 @@
 <hr />
 
 <img align="center" src="https://komarev.com/ghpvc/?username=htetarkarhlaing&label=Profile%20views&color=00f9ff&style=flat-square" alt="htetarkarhlaing" />
-[committers.top badge](https://user-badge.committers.top/myanmar_private/htetarkarhlaing.svg)](https://user-badge.committers.top/myanmar_private/htetarkarhlaing)
+
+[![committers.top badge](https://user-badge.committers.top/myanmar_private/htetarkarhlaing.svg)](https://user-badge.committers.top/myanmar_private/htetarkarhlaing)
 
 <div style="text-align: center;">
 
