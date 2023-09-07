@@ -14,7 +14,7 @@
 </div
 
 ![Htet Arkar Hlaing's GitHub stats](https://github-readme-stats.vercel.app/api?username=htetarkarhlaing&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htetarkarhlaing&theme=radical&layout=compact&langs_count=8&hide=html,hack,handlebars)](https://github.com/htetarkarhlaing/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htetarkarhlaing&theme=radical&layout=compact&langs_count=8&hide=html,css,hack,handlebars)](https://github.com/htetarkarhlaing/github-readme-stats)
 
 [![Htet Arkar Hlaing's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=htetarkarhlaing&theme=radical)](https://github.com/htetarkarhlaing/htetarkarhlaing)
 
