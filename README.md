@@ -5,6 +5,8 @@
 
 <img align="center" src="https://komarev.com/ghpvc/?username=htetarkarhlaing&label=Profile%20views&color=00f9ff&style=flat-square" alt="htetarkarhlaing" />
 
+[![wakatime](https://wakatime.com/badge/user/4196b303-7cb5-4cf3-8024-a8c107a96e9a.svg)](https://wakatime.com/@4196b303-7cb5-4cf3-8024-a8c107a96e9a)
+
 [![committers.top badge](https://user-badge.committers.top/myanmar_private/htetarkarhlaing.svg)](https://user-badge.committers.top/myanmar_private/htetarkarhlaing)
 
 <div style="text-align: center;">
