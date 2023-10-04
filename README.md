@@ -18,7 +18,7 @@
 ![Htet Arkar Hlaing's GitHub stats](https://github-readme-stats.vercel.app/api?username=htetarkarhlaing&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htetarkarhlaing&theme=radical&layout=compact&langs_count=8&hide=html,css,hack,handlebars)](https://github.com/htetarkarhlaing/github-readme-stats)
 
-[![Htet Arkar Hlaing's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=htetarkarhlaing&theme=radical)](https://github.com/htetarkarhlaing/htetarkarhlaing)
+[![Htet Arkar Hlaing's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=htetarkarhlaing&theme=radical&layout=compact)](https://github.com/htetarkarhlaing/htetarkarhlaing)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
