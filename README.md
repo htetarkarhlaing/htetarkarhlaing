@@ -2,8 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/4196b303-7cb5-4cf3-8024-a8c107a96e9a.svg)](https://wakatime.com/@4196b303-7cb5-4cf3-8024-a8c107a96e9a)
 
-[![Htet Arkar Hlaing's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=htetarkarhlaing&theme=radical&layout=compact)](https://github.com/htetarkarhlaing/htetarkarhlaing)
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
